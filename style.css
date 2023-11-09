@@ -1,0 +1,36 @@
+.mainContainer{
+    text-align: center;
+    background-color: aliceblue;
+    height: 100vh;
+    background-size: cover;
+    font-family: "Open Sans";
+}
+.colorDisplay{
+    background-color: black;
+    color: white;
+    font-weight: 700;
+    min-width:fit-content
+    max-width: max-content;
+    padding: 10px;
+    margin: 10px 0px 10px 0px;
+    font-size: 18px;
+}
+div > button{
+    border-radius: 10px;
+    margin: 10px;
+    padding: 15px;
+}
+
+#button1{
+    background-color: #e0e0e0;
+}
+
+#button2{
+    background-color: #6fcf97;
+}
+#button3{
+    background-color: #56ccf2;
+}
+#button4{
+    background-color: #bb6bd9;
+}
